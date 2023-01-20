@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.buttonEntrar.resources
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.Properties.Resources.resources
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LoginUnisurl\bin\Debug\LoginUnisurl.exe.config
+C:\Users\PC\source\repos\LoginUnisurl\bin\Debug\LoginUnisurl.exe
+C:\Users\PC\source\repos\LoginUnisurl\bin\Debug\LoginUnisurl.pdb
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.exe
+C:\Users\PC\source\repos\LoginUnisurl\obj\Debug\LoginUnisurl.pdb
